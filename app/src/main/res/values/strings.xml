@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Mir Tasks</string>
+    <string name="my_tasks">My tasks</string>
+    <string name="filter_all">All</string>
+    <string name="filter_today">Today</string>
+    <string name="filter_upcoming">Upcoming</string>
+    <string name="filter_done">Done</string>
+    <string name="new_task">New task</string>
+    <string name="edit_task">Edit task</string>
+    <string name="title_hint">What do you need to do?</string>
+    <string name="note_hint">Add a note</string>
+    <string name="due">Due date</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="pick_date">Pick date</string>
+    <string name="no_date">No date</string>
+    <string name="priority">Priority</string>
+    <string name="priority_none">None</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="overdue">Overdue</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="undo">Undo</string>
+    <string name="clear_completed">Clear completed</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="more">More options</string>
+    <string name="empty_all">Nothing to do. Add your first task!</string>
+    <string name="empty_today">Nothing due today. Enjoy your day!</string>
+    <string name="empty_upcoming">No upcoming tasks with a date.</string>
+    <string name="empty_done">Completed tasks will appear here.</string>
+</resources>

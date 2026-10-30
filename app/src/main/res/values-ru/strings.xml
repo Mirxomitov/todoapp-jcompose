@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="my_tasks">Мои задачи</string>
+    <string name="filter_all">Все</string>
+    <string name="filter_today">Сегодня</string>
+    <string name="filter_upcoming">Предстоящие</string>
+    <string name="filter_done">Выполнено</string>
+    <string name="new_task">Новая задача</string>
+    <string name="edit_task">Изменить задачу</string>
+    <string name="title_hint">Что нужно сделать?</string>
+    <string name="note_hint">Добавить заметку</string>
+    <string name="due">Срок</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="pick_date">Выбрать дату</string>
+    <string name="no_date">Без даты</string>
+    <string name="priority">Приоритет</string>
+    <string name="priority_none">Нет</string>
+    <string name="priority_low">Низкий</string>
+    <string name="priority_medium">Средний</string>
+    <string name="priority_high">Высокий</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">OK</string>
+    <string name="overdue">Просрочено</string>
+    <string name="task_deleted">Задача удалена</string>
+    <string name="undo">Отменить</string>
+    <string name="clear_completed">Очистить выполненные</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="more">Ещё</string>
+    <string name="empty_all">Задач нет. Добавьте первую!</string>
+    <string name="empty_today">На сегодня задач нет. Хорошего дня!</string>
+    <string name="empty_upcoming">Нет предстоящих задач с датой.</string>
+    <string name="empty_done">Здесь появятся выполненные задачи.</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="my_tasks">Mening vazifalarim</string>
+    <string name="filter_all">Barchasi</string>
+    <string name="filter_today">Bugun</string>
+    <string name="filter_upcoming">Kelgusi</string>
+    <string name="filter_done">Bajarilgan</string>
+    <string name="new_task">Yangi vazifa</string>
+    <string name="edit_task">Vazifani tahrirlash</string>
+    <string name="title_hint">Nima qilish kerak?</string>
+    <string name="note_hint">Izoh qo\'shish</string>
+    <string name="due">Muddat</string>
+    <string name="today">Bugun</string>
+    <string name="tomorrow">Ertaga</string>
+    <string name="pick_date">Sanani tanlash</string>
+    <string name="no_date">Sanasiz</string>
+    <string name="priority">Muhimlik</string>
+    <string name="priority_none">Yo\'q</string>
+    <string name="priority_low">Past</string>
+    <string name="priority_medium">O\'rta</string>
+    <string name="priority_high">Yuqori</string>
+    <string name="save">Saqlash</string>
+    <string name="delete">O\'chirish</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="ok">OK</string>
+    <string name="overdue">Muddati o\'tgan</string>
+    <string name="task_deleted">Vazifa o\'chirildi</string>
+    <string name="undo">Qaytarish</string>
+    <string name="clear_completed">Bajarilganlarni tozalash</string>
+    <string name="privacy_policy">Maxfiylik siyosati</string>
+    <string name="more">Boshqa</string>
+    <string name="empty_all">Vazifalar yo\'q. Birinchisini qo\'shing!</string>
+    <string name="empty_today">Bugunga vazifa yo\'q. Kuningiz xayrli o\'tsin!</string>
+    <string name="empty_upcoming">Sanali kelgusi vazifalar yo\'q.</string>
+    <string name="empty_done">Bajarilgan vazifalar shu yerda ko\'rinadi.</string>
+</resources>
