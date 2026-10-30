@@ -1,12 +1,10 @@
 Assalomu alaykum! Yangi ilovamiz "Mir Tasks" (oddiy to-do list) uchun 14 kunlik testga yordamingiz kerak. Oldindan katta rahmat!
 
-1) Join Google groups:
-https://groups.google.com/g/projecttesters
-
-2) Become tester:
+1) Become tester:
 https://play.google.com/apps/testing/uz.mir.tasks
 
-3) Download:
+2) Download:
 https://play.google.com/store/apps/details?id=uz.mir.tasks
 
+Agar link ishlamasa, Gmail manzilingizni yozing, ro'yxatga qo'shib qo'yaman.
 Iltimos, ilovani 14 kun o'chirmang. Sizning ilovangizni ham test qilib beraman 🙌
